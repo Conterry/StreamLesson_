@@ -1,0 +1,13 @@
+C:\Users\glebo\source\repos\StreamLesson\StreamLesson\bin\Debug\netcoreapp3.1\StreamLesson.exe
+C:\Users\glebo\source\repos\StreamLesson\StreamLesson\bin\Debug\netcoreapp3.1\StreamLesson.deps.json
+C:\Users\glebo\source\repos\StreamLesson\StreamLesson\bin\Debug\netcoreapp3.1\StreamLesson.runtimeconfig.json
+C:\Users\glebo\source\repos\StreamLesson\StreamLesson\bin\Debug\netcoreapp3.1\StreamLesson.runtimeconfig.dev.json
+C:\Users\glebo\source\repos\StreamLesson\StreamLesson\bin\Debug\netcoreapp3.1\StreamLesson.dll
+C:\Users\glebo\source\repos\StreamLesson\StreamLesson\bin\Debug\netcoreapp3.1\StreamLesson.pdb
+C:\Users\glebo\source\repos\StreamLesson\StreamLesson\obj\Debug\netcoreapp3.1\StreamLesson.csprojAssemblyReference.cache
+C:\Users\glebo\source\repos\StreamLesson\StreamLesson\obj\Debug\netcoreapp3.1\StreamLesson.AssemblyInfoInputs.cache
+C:\Users\glebo\source\repos\StreamLesson\StreamLesson\obj\Debug\netcoreapp3.1\StreamLesson.AssemblyInfo.cs
+C:\Users\glebo\source\repos\StreamLesson\StreamLesson\obj\Debug\netcoreapp3.1\StreamLesson.csproj.CoreCompileInputs.cache
+C:\Users\glebo\source\repos\StreamLesson\StreamLesson\obj\Debug\netcoreapp3.1\StreamLesson.dll
+C:\Users\glebo\source\repos\StreamLesson\StreamLesson\obj\Debug\netcoreapp3.1\StreamLesson.pdb
+C:\Users\glebo\source\repos\StreamLesson\StreamLesson\obj\Debug\netcoreapp3.1\StreamLesson.genruntimeconfig.cache
